@@ -4,17 +4,11 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=34&duration=2200&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&lines=Welcome%2C+traveler+%E2%80%94+I%27m+Jaineel." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&duration=2200&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&lines=Welcome%2C+traveler+%E2%80%94+I%27m+Jaineel." />
 
-<br/>
-
-<p>
-  <em>Cyber security student • building things • always learning</em>
-</p>
+<p><em>Cyber security student • building things • always learning</em></p>
 
 </div>
-
----
 
 ## 🧠 About Me
 
@@ -30,7 +24,7 @@ Most of what I do is learning by building and figuring things out as I go.
 - 🧠 Security • Systems • Development  
 - 🐧 Arch Linux user  
 
----
+<br/>
 
 ## ⚙️ Tech
 
@@ -38,19 +32,17 @@ Most of what I do is learning by building and figuring things out as I go.
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,git,linux" />
 </p>
 
----
+<br/>
 
 ## 🚀 Projects
 
 - 🔹 **System Fingerprint Tool**  
-  Collects system info, performs a full threaded port scan (1–65535), and stores results in CSV.
+  Collects system info + threaded port scanning (1–65535)
 
 - 🔹 **Portfolio Website**  
-  Built with Next.js, focused on clean UI and interaction.
+  Built with Next.js, focused on clean UI and interaction
 
-- 🔹 **More coming soon...**
-
----
+<br/>
 
 ## 📊 Stats
 
@@ -59,18 +51,14 @@ Most of what I do is learning by building and figuring things out as I go.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaineeldev&layout=compact&theme=transparent" height="160"/>
 </p>
 
----
+<br/>
 
 ## 📍 Currently
 
 - Working on new projects  
 - Improving my skills in security & development  
-- Continuously learning
-
----
+- Continuously learning  
 
 <div align="center">
-  
 <img src="https://komarev.com/ghpvc/?username=jaineeldev&label=Profile%20Views&color=58A6FF&style=flat" />
-
 </div>
