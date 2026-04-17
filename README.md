@@ -4,7 +4,13 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=36&duration=2000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jaineel;Cyber+Security+Student;Building+Projects+%26+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=34&duration=2200&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&lines=Welcome%2C+traveler+%E2%80%94+I%27m+Jaineel." />
+
+<br/>
+
+<p>
+  <em>Cyber security student • building things • always learning</em>
+</p>
 
 </div>
 
@@ -14,30 +20,35 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jaineeldev&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
-Cyber security student working towards Computer Science @ QUT.  
-I like building practical tools, exploring systems, and improving how things work under the hood.
+Hey, I’m Jaineel. I’m currently studying cyber security and planning to move into Computer Science.
+
+I like building practical projects — especially anything involving systems or security.  
+Most of what I do is learning by building and figuring things out as I go.
+
+- 🎓 Cyber security → Computer Science  
+- 🛠️ Python, TypeScript, modern web  
+- 🧠 Security • Systems • Development  
+- 🐧 Arch Linux user  
 
 ---
 
 ## ⚙️ Tech
 
-```ts
-const jaineel = {
-  languages: ["Python", "TypeScript", "JavaScript"],
-  tools: ["React", "Next.js", "Git", "Linux"],
-  focus: ["Security", "Systems", "Development"]
-}
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,git,linux" />
+</p>
 
 ---
 
 ## 🚀 Projects
 
 - 🔹 **System Fingerprint Tool**  
-  Collects system info + threaded port scanning (1–65535)
+  Collects system info, performs a full threaded port scan (1–65535), and stores results in CSV.
 
 - 🔹 **Portfolio Website**  
-  Built with Next.js and modern UI design
+  Built with Next.js, focused on clean UI and interaction.
+
+- 🔹 **More coming soon...**
 
 ---
 
@@ -47,3 +58,19 @@ const jaineel = {
   <img src="https://github-readme-stats.vercel.app/api?username=jaineeldev&show_icons=true&theme=transparent" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaineeldev&layout=compact&theme=transparent" height="160"/>
 </p>
+
+---
+
+## 📍 Currently
+
+- Working on new projects  
+- Improving my skills in security & development  
+- Continuously learning
+
+---
+
+<div align="center">
+  
+<img src="https://komarev.com/ghpvc/?username=jaineeldev&label=Profile%20Views&color=58A6FF&style=flat" />
+
+</div>
