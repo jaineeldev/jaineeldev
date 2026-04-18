@@ -22,7 +22,7 @@ Most of what I do is learning by building and figuring things out as I go.
 - 🎓 Cyber security → Computer Science  
 - 🛠️ Python, TypeScript, modern web  
 - 🧠 Security • Systems • Development  
-- 🐧 Arch Linux user  
+- 🐧 Windows and sometimes an Arch Linux user  
 
 <br/>
 
