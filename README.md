@@ -10,7 +10,6 @@
 
 </div>
 
----
 
 ## 🧠 About Me
 
@@ -71,7 +70,6 @@ A Python GUI tool for system inspection and multi-threaded port scanning.
 - Building more security-focused tools  
 - Learning and refining fundamentals  
 
----
 
 ## 📫 Contact
 
