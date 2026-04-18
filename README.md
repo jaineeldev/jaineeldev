@@ -10,19 +10,41 @@
 
 </div>
 
+---
+
 ## 🧠 About Me
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jaineeldev&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
-Hey, I’m Jaineel. I’m currently studying cyber security and planning to move into Computer Science.
+Hey, I’m Jaineel. I’m currently studying cyber security and working towards Computer Science.
 
-I like building practical projects — especially anything involving systems or security.  
-Most of what I do is learning by building and figuring things out as I go.
+I focus on building practical projects — especially around systems and security — and improving by building and iterating.
 
 - 🎓 Cyber security → Computer Science  
 - 🛠️ Python, TypeScript, modern web  
 - 🧠 Security • Systems • Development  
-- 🐧 Windows and sometimes an Arch Linux user  
+- 🐧 Windows + Arch Linux  
+
+<br/>
+
+## 🌟 Featured
+
+**System Fingerprint Tool**  
+A Python GUI tool for system inspection and multi-threaded port scanning.
+
+→ https://github.com/jaineeldev/system-fingerprint-tool
+
+<br/>
+
+## 🚀 Projects
+
+- 🔹 **Portfolio Website**  
+  https://jaineel.dev  
+  Modern Next.js portfolio focused on clean UI, motion, and interaction design
+
+- 🔹 **Hawthorne Corner Store Website**  
+  https://www.hawthornecornerstore.com.au/  
+  Real-world website built for a local business
 
 <br/>
 
@@ -31,16 +53,6 @@ Most of what I do is learning by building and figuring things out as I go.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,git,linux" />
 </p>
-
-<br/>
-
-## 🚀 Projects
-
-- 🔹 **System Fingerprint Tool**  
-  Collects system info + threaded port scanning (1–65535)
-
-- 🔹 **Portfolio Website**  
-  Built with Next.js, focused on clean UI and interaction
 
 <br/>
 
@@ -55,9 +67,17 @@ Most of what I do is learning by building and figuring things out as I go.
 
 ## 📍 Currently
 
-- Working on new projects  
-- Improving my skills in security & development  
-- Continuously learning  
+- Improving my portfolio and UI work  
+- Building more security-focused tools  
+- Learning and refining fundamentals  
+
+---
+
+## 📫 Contact
+
+- 🌐 https://jaineel.dev  
+- 💼 https://www.linkedin.com/in/jaineel-khatri/  
+- 📧 jaineelk.dev@gmail.com  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jaineeldev&label=Profile%20Views&color=58A6FF&style=flat" />
