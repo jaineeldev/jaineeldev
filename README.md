@@ -61,7 +61,7 @@ A collection of structured write-ups covering key cybersecurity topics:
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,ts,js,tailwind" />
 </p>
 
 ### Backend / Data
