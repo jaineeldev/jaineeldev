@@ -10,7 +10,6 @@
 
 </div>
 
-
 ## 🧠 About Me
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jaineeldev&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
@@ -47,10 +46,32 @@ A Python GUI tool for system inspection and multi-threaded port scanning.
 
 <br/>
 
+## 📚 Cybersecurity Assessments
+
+A collection of structured write-ups covering key cybersecurity topics:
+
+- 📄 **Legislation and Policies**  
+- 📄 **Automated Processes & Algorithmic Solution**  
+
+→ https://github.com/jaineeldev/cybersecurity-assessments
+
+<br/>
+
 ## ⚙️ Tech
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,git,linux" />
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
+</p>
+
+### Backend / Data
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,postgres,mysql" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux" />
 </p>
 
 <br/>
@@ -68,8 +89,7 @@ A Python GUI tool for system inspection and multi-threaded port scanning.
 
 - Improving my portfolio and UI work  
 - Building more security-focused tools  
-- Learning and refining fundamentals  
-
+- Expanding my cybersecurity knowledge base  
 
 ## 📫 Contact
 
