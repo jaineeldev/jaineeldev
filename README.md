@@ -1,102 +1,76 @@
 <div align="center">
-
-<img src="./assets/victini.gif" width="220"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&duration=2200&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&lines=Welcome%2C+traveler+%E2%80%94+I%27m+Jaineel." />
-
-<p><em>Cyber security student • building things • always learning</em></p>
-
+  <img src="./assets/victini.gif" width="200"/>
+  <br/><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2200&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=false&width=680&lines=hey%2C+I%27m+Jaineel." />
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/cyber%20security-student-58A6FF?style=flat-square&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/QUT-CS%20%E2%80%942027-8B949E?style=flat-square&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Brisbane-AU-8B949E?style=flat-square&labelColor=0d1117" />
+  </p>
 </div>
 
-## 🧠 About Me
+## about
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jaineeldev&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
-Hey, I’m Jaineel. I’m currently studying cyber security and working towards Computer Science.
+I'm studying cyber security and working towards a CS degree at QUT. I build practical projects, mostly around security tooling and web, and I learn by shipping things and iterating.
 
-I focus on building practical projects — especially around systems and security — and improving by building and iterating.
+```
+focus areas  →  security · systems · web development
+stack        →  Python · TypeScript · Next.js · React
+environment  →  Windows + Arch Linux (KDE)
+next step    →  Bachelor of CS @ QUT, 2027
+currently    →  somewhere in the Midnight Channel
+```
 
-- 🎓 Cyber security → Computer Science  
-- 🛠️ Python, TypeScript, modern web  
-- 🧠 Security • Systems • Development  
-- 🐧 Windows + Arch Linux  
+## projects
 
-<br/>
+| project | stack | description |
+|---|---|---|
+| ⭐ [**system-fingerprint-tool**](https://github.com/jaineeldev/system-fingerprint-tool) | Python | GUI tool for system inspection and multi-threaded port scanning |
+| [**jaineel.dev**](https://jaineel.dev) | Next.js · TS · Tailwind · Framer Motion | Personal portfolio |
+| [**hawthornecornerstore.com.au**](https://www.hawthornecornerstore.com.au) | React · Vite | Website built for a local business |
+| [**cybersecurity-assessments**](https://github.com/jaineeldev/cybersecurity-assessments) | — | Structured write-ups on legislation, policies & automated processes |
 
-## 🌟 Featured
+## tech
 
-**System Fingerprint Tool**  
-A Python GUI tool for system inspection and multi-threaded port scanning.
+**frontend**
 
-→ https://github.com/jaineeldev/system-fingerprint-tool
+![](https://skillicons.dev/icons?i=html,css,react,nextjs,ts,js,tailwind)
 
-<br/>
+**backend & data**
 
-## 🚀 Projects
+![](https://skillicons.dev/icons?i=python,php,postgres,mysql)
 
-- 🔹 **Portfolio Website**  
-  https://jaineel.dev  
-  Modern Next.js portfolio focused on clean UI, motion, and interaction design
+**tools**
 
-- 🔹 **Hawthorne Corner Store Website**  
-  https://www.hawthornecornerstore.com.au/  
-  Real-world website built for a local business
+![](https://skillicons.dev/icons?i=git,linux)
 
-<br/>
-
-## 📚 Cybersecurity Assessments
-
-A collection of structured write-ups covering key cybersecurity topics:
-
-- 📄 **Legislation and Policies**  
-- 📄 **Automated Processes & Algorithmic Solution**  
-
-→ https://github.com/jaineeldev/cybersecurity-assessments
-
-<br/>
-
-## ⚙️ Tech
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,ts,js,tailwind" />
-</p>
-
-### Backend / Data
-<p>
-  <img src="https://skillicons.dev/icons?i=python,php,postgres,mysql" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,linux" />
-</p>
-
-<br/>
-
-## 📊 Stats
+## stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaineeldev&show_icons=true&theme=transparent" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaineeldev&layout=compact&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jaineeldev&show_icons=true&theme=transparent&hide_border=true" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaineeldev&layout=compact&theme=transparent&hide_border=true" height="155"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jaineeldev&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaineeldev&theme=github-compact&hide_border=true&bg_color=00000000&color=8B949E&line=58A6FF&point=58A6FF" />
 </p>
 
-<br/>
+## currently
 
-## 📍 Currently
+- Iterating on my portfolio and UI work
+- Building more security-focused tooling
+- Expanding my cybersecurity knowledge base
 
-- Improving my portfolio and UI work  
-- Building more security-focused tools  
-- Expanding my cybersecurity knowledge base  
+## contact
 
-## 📫 Contact
-
-- 🌐 https://jaineel.dev  
-- 💼 https://www.linkedin.com/in/jaineel-khatri/  
-- 📧 jaineelk.dev@gmail.com  
+[🌐 jaineel.dev](https://jaineel.dev) · [💼 linkedin](https://www.linkedin.com/in/jaineel-khatri/) · [📧 jaineelk.dev@gmail.com](mailto:jaineelk.dev@gmail.com)
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=jaineeldev&label=Profile%20Views&color=58A6FF&style=flat" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=jaineeldev&label=views&color=58A6FF&style=flat-square" />
 </div>
