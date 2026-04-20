@@ -21,7 +21,7 @@ focus areas  →  security · systems · web development
 stack        →  Python · TypeScript · Next.js · React
 environment  →  Windows + Arch Linux (KDE)
 next step    →  Bachelor of CS @ QUT, 2027
-currently    →  somewhere in the Midnight Channel
+currently    →  resting at a bonfire
 ```
 
 ## projects
