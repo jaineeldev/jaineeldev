@@ -29,6 +29,7 @@ currently    →  somewhere in the Midnight Channel
 | project | stack | description |
 |---|---|---|
 | ⭐ [**system-fingerprint-tool**](https://github.com/jaineeldev/system-fingerprint-tool) | Python | GUI tool for system inspection and multi-threaded port scanning |
+| 🔨 [**nids-ml**](https://github.com/jaineeldev/nids-ml) | Python · Scikit-learn · Scapy | ML-powered network intrusion detection system *(in development)* |
 | [**jaineel.dev**](https://jaineel.dev) | Next.js · TS · Tailwind · Framer Motion | Personal portfolio |
 | [**hawthornecornerstore.com.au**](https://www.hawthornecornerstore.com.au) | React · Vite | Website built for a local business |
 | [**cybersecurity-assessments**](https://github.com/jaineeldev/cybersecurity-assessments) | — | Structured write-ups on legislation, policies & automated processes |
@@ -68,7 +69,7 @@ currently    →  somewhere in the Midnight Channel
 
 ## contact
 
-[🌐 jaineel.dev](https://jaineel.dev) · [💼 linkedin](https://www.linkedin.com/in/jaineel-khatri/) · [📧 jaineelk.dev@gmail.com](mailto:jaineelk.dev@gmail.com)
+[🌐 jaineel.dev](https://jaineel.dev) · [💼 linkedin](https://www.linkedin.com/in/jaineel-khatri/) · [📧 jaineelk.dev@gmail.com](mailto:jaineelk.dev@gmail.com) · [![Ko-fi](https://img.shields.io/badge/Support%20me-Ko--fi-FF5E5B?style=flat-square&logo=kofi&labelColor=0d1117)](https://ko-fi.com/jaineeldev)
 
 <div align="center">
   <br/>
