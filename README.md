@@ -55,7 +55,7 @@ currently    →  somewhere in the Midnight Channel
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaineeldev&show_icons=true&theme=transparent&hide_border=true" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaineeldev&layout=compact&theme=transparent&hide_border=true" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaineeldev&layout=compact&theme=transparent&hide_border=true&hide=ejs" height="155"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jaineeldev&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
