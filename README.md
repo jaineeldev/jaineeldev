@@ -4,8 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2200&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=false&width=680&lines=hey%2C+I%27m+Jaineel." />
   <br/>
   <p>
-    <img src="https://img.shields.io/badge/cyber%20security-student-58A6FF?style=flat-square&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/QUT-CS%20%E2%80%942027-8B949E?style=flat-square&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/developer-%26%20CS%20student-58A6FF?style=flat-square&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/QUT-CS%20%E2%80%94%202027-8B949E?style=flat-square&labelColor=0d1117" />
     <img src="https://img.shields.io/badge/Brisbane-AU-8B949E?style=flat-square&labelColor=0d1117" />
   </p>
 </div>
@@ -14,27 +14,28 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jaineeldev&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
-I'm studying cyber security and working towards a CS degree at QUT. I build practical projects, mostly around security tooling and web, and I learn by shipping things and iterating.
+I'm a developer and student in Brisbane, finishing a Cert IV in Cyber Security. Next year I start a Bachelor of IT at QUT, majoring in Computer Science and hoping to add a minor in Data Science. I build web products, desktop software and the odd security tool, and I learn by shipping things and iterating.
 
 ```
-focus areas  →  security · systems · web development
-stack        →  Python · TypeScript · Next.js · React
+focus areas  →  web products · desktop apps · security
+stack        →  TypeScript · Next.js · React · Electron · Python
 learning     →  C  →  native Node addons  →  desktop_buddy
 environment  →  Windows + Arch Linux (KDE)
-next step    →  Bachelor of CS @ QUT, 2027
-currently    →  somewhere in the Midnight Channel
+next step    →  Bachelor of IT @ QUT, 2027
+                CS major · Data Science minor (planned)
+sora says    →  hi
 ```
 
 ## projects
 
 | project | stack | description |
 |---|---|---|
-| ⭐ [**system-fingerprint-tool**](https://github.com/jaineeldev/system-fingerprint-tool) | Python | GUI tool for system inspection and multi-threaded port scanning |
-| [**nids-ml**](https://github.com/jaineeldev/nids-ml) | Python | Collaborative network intrusion detection system with packet capture, CSV logging and ML pipeline ![active](https://img.shields.io/badge/active-58A6FF?style=flat-square) |
-| [**desktop-buddy**](https://github.com/jaineeldev/desktop_buddy) | Electron · React · TS · C | Animated desktop mascot with live system stats via a native C addon ![planning](https://img.shields.io/badge/planning-8B949E?style=flat-square) |
+| **velo** | Next.js · TS · Postgres · Stripe | Client workflow tool for Australian freelance devs and agencies: proposals, approvals, milestones, invoicing and a client portal ![in development](https://img.shields.io/badge/in%20development-58A6FF?style=flat-square) |
+| ⭐ [**desktop-buddy**](https://github.com/jaineeldev/desktop_buddy) | Electron · React · TS | Desktop pet whose face is generated from its name, with moods, physics, a customise panel and auto-updates ![v0.2.0](https://img.shields.io/badge/v0.2.0-early%20access-8B949E?style=flat-square) |
 | [**jaineel.dev**](https://jaineel.dev) | Next.js · TS · Tailwind · Framer Motion | Personal portfolio |
 | [**hawthornecornerstore.com.au**](https://www.hawthornecornerstore.com.au) | React · Vite | Website built for a local business |
-| [**c-learning**](https://github.com/jaineeldev/c-learning) | C | Working through C fundamentals — prereq for the desktop-buddy native stats module |
+| [**system-fingerprint-tool**](https://github.com/jaineeldev/system-fingerprint-tool) | Python | GUI tool for system inspection and multi-threaded port scanning |
+| [**c-learning**](https://github.com/jaineeldev/c-learning) | C | Working through C fundamentals, prereq for the desktop-buddy native stats module |
 | [**cybersecurity-assessments**](https://github.com/jaineeldev/cybersecurity-assessments) | — | Structured write-ups on legislation, policies & automated processes |
 
 ## tech
@@ -49,7 +50,7 @@ currently    →  somewhere in the Midnight Channel
 
 **tools**
 
-![](https://skillicons.dev/icons?i=git,linux,electron)
+![](https://skillicons.dev/icons?i=git,linux,electron,vercel,cloudflare)
 
 ## stats
 
@@ -66,9 +67,9 @@ currently    →  somewhere in the Midnight Channel
 
 ## currently
 
+- Building Velo towards a waitlist launch
+- Working on the next desktop-buddy update: remembered position, gravity and a proper sleep state
 - Learning C to build a native stats module for desktop-buddy
-- Iterating on my portfolio and UI work
-- Expanding my cybersecurity knowledge base
 
 ## contact
 
