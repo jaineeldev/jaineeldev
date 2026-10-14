@@ -31,7 +31,7 @@ sora says    →  hi
 | project | stack | description |
 |---|---|---|
 | **velo** | Next.js · TS · Postgres · Stripe | Client workflow tool for Australian freelance devs and agencies: proposals, approvals, milestones, invoicing and a client portal ![in development](https://img.shields.io/badge/in%20development-58A6FF?style=flat-square) |
-| ⭐ [**desktop-buddy**](https://github.com/jaineeldev/desktop_buddy) | Electron · React · TS | Desktop pet whose face is generated from its name, with moods, physics, a customise panel and auto-updates ![v0.2.0](https://img.shields.io/badge/v0.2.0-early%20access-8B949E?style=flat-square) |
+| ⭐ [**desktop-buddy**](https://github.com/jaineeldev/desktop_buddy) | Electron · React · TS | Desktop pet whose face is generated from its name, with moods, physics, a customise panel and auto-updates ![v1.0.1](https://img.shields.io/badge/v0.2.0-early%20access-8B949E?style=flat-square) |
 | [**jaineel.dev**](https://jaineel.dev) | Next.js · TS · Tailwind · Framer Motion | Personal portfolio |
 | [**hawthornecornerstore.com.au**](https://www.hawthornecornerstore.com.au) | React · Vite | Website built for a local business |
 | [**system-fingerprint-tool**](https://github.com/jaineeldev/system-fingerprint-tool) | Python | GUI tool for system inspection and multi-threaded port scanning |
