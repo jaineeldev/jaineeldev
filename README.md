@@ -8,7 +8,7 @@
 
 I'm a self-taught developer from Brisbane. I started with the web because I wanted to make things people could actually click on, and I've been sliding down the stack ever since. These days it's TypeScript during the day and C at night, mostly so my desktop pet can one day tell you how hot your CPU is running.
 
-I'm finishing a Cert IV in Cyber Security right now, and next year I start Computer Science at QUT. I care way too much about spacing, I name my projects before I build them, and I'd rather ship something rough and fix it than polish something nobody sees.
+I've finished a Cert IV in Cyber Security, and next year I start Computer Science at QUT. I care way too much about spacing, I name my projects before I build them, and I'd rather ship something rough and fix it than polish something nobody sees.
 
 ```
 ~/jaineel $ cat now.txt
