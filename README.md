@@ -30,9 +30,9 @@ A little pet that lives on your desktop. Its face is generated from its name, so
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/desktop-buddy-dark.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/desktop-buddy-light.gif" />
-    <img src="./assets/desktop-buddy-dark.gif" width="720" alt="Buddies eating popcorn next to a video, bopping along to music, and dozing off" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/desktopbuddy-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/desktopbuddy-light.gif" />
+    <img src="./assets/desktopbuddy-dark.gif" width="720" alt="Buddies eating popcorn next to a video, bopping along to music, and dozing off" />
   </picture>
 </p>
 
