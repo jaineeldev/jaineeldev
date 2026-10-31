@@ -14,40 +14,41 @@ I've finished a Cert IV in Cyber Security, and next year I start Computer Scienc
 ~/jaineel $ cat now.txt
 
 building   →  velo
-shipping   →  desktop-buddy for mac
-next up    →  a buddy that gets stressed when your pc does
+shipped    →  blimo 1.2, now on windows and mac
+next up    →  send your buddy to a friend as a short code
 learning   →  C, one segfault at a time
-next       →  bachelor of it @ qut, 2027
+then       →  bachelor of it @ qut, 2027
 sora says  →  hi
 ```
 
 ## things I've made
 
-**⭐ [desktop-buddy](https://github.com/jaineeldev/desktop_buddy)** &nbsp;<sub>Electron · React · TS</sub><br/>
-A little pet that lives on your desktop. Its face is generated from its name, so no two buddies look the same. It has moods and physics, grabs popcorn when you're watching something, bops along to your music, and dozes off when you leave it alone. The default one is called Sora. It's free on Windows, and the Mac version is nearly here. Next, it learns to read your PC: stressed when things are busy, sleepy when they're quiet. You'll also be able to send your buddy to a friend as a short code. This is the one I'm proudest of.
+**⭐ [Blimo](https://jaineel.dev/blimo)** &nbsp;<sub>Electron · React · TS</sub><br/>
+A little creature that lives on your desktop. Its face is grown from its name, so no two look alike. It has twenty-one moods, grabs popcorn when you're watching something, bops along to your music, gets stressed when your PC is working flat out, and dozes off when you leave it alone. The default one is called Sora. Free on Windows and Mac, and it was called DesktopBuddy until 1.2. This is the one I'm proudest of.
 <br/>
-<a href="https://github.com/jaineeldev/desktop_buddy/releases/latest"><img src="https://img.shields.io/github/v/release/jaineeldev/desktop_buddy?style=flat-square&labelColor=0d1117&color=8B949E&label=latest" alt="latest release" /></a>
+<a href="https://github.com/jaineeldev/blimo_app/releases/latest"><img src="https://img.shields.io/github/v/release/jaineeldev/blimo_app?style=flat-square&labelColor=0d1117&color=8B949E&label=latest" alt="latest release" /></a>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/desktopbuddy-demo-dark.gif" />
-    <source media="(prefers-color-scheme: light)" srcset=".assets/desktopbuddy-demo-light.gif" />
-    <img src="./assets/desktopbuddy-dark.gif" width="720" alt="Buddies eating popcorn next to a video, bopping along to music, and dozing off" />
+    <img src="./assets/desktopbuddy-demo-light.gif" width="720" alt="Buddies eating popcorn next to a video, bopping along to music, and dozing off" />
   </picture>
 </p>
 
-
-**velo** &nbsp;<sub>Next.js · TS · Postgres · Stripe</sub><br/>
+**[Velo](https://project-velo.vercel.app)** &nbsp;<sub>Next.js · TS · Postgres · Stripe</sub><br/>
 Proposals, approvals, milestones and invoices in one place instead of seven email threads. Built for Australian freelance devs and agencies, and heading for a waitlist launch. <sub>`in development`</sub>
 
 **[jaineel.dev](https://jaineel.dev)** &nbsp;<sub>Next.js · Tailwind · Framer Motion</sub><br/>
-My corner of the internet. One blue, two typefaces, too many hours on spacing.
+My corner of the internet. Two typefaces, too many hours on spacing, and a secret page if you go looking.
 
 **[hawthornecornerstore.com.au](https://www.hawthornecornerstore.com.au)** &nbsp;<sub>React · Vite</sub><br/>
-A site for a local corner store. Real client, real deadline, real feedback.
+A site for a local corner store, live since 2025. Real client, real deadline, real feedback.
+
+**[an incident response exercise](https://jaineel.dev/work/irtx)** &nbsp;<sub>Red team · Metasploit</sub><br/>
+I led the red team in a six-person exercise against an incident response plan. The blue team caught two of my three attacks. I'm still thinking about the third.
 
 **[system-fingerprint-tool](https://github.com/jaineeldev/system-fingerprint-tool)** &nbsp;<sub>Python</sub><br/>
-A GUI that tells you what a machine is and which ports it left open.
+A GUI that tells you what a machine is and which of its 65,535 ports it left open.
 
 **[c-learning](https://github.com/jaineeldev/c-learning)** &nbsp;<sub>C</sub><br/>
 Me vs. pointers. Ongoing.
@@ -55,26 +56,40 @@ Me vs. pointers. Ongoing.
 **[cybersecurity-assessments](https://github.com/jaineeldev/cybersecurity-assessments)**<br/>
 The paperwork side of security: legislation, policy and process. Less flashy, still matters.
 
+## off the clock
+
+```
+~/jaineel $ ls ~/saves
+
+elden-ring.sav    pokemon.sav    final-fantasy-vii.sav
+
+~/jaineel $ cat ~/saves/README
+
+three save files I keep going back to.
+the soundtrack is usually on while I code.
+yes, that's why there's a victini up top.
+```
+
 ## how I got here
 
 ```
 ~/jaineel $ git log --oneline --reverse
 
-a1f3c02  taught myself html to make ____
+a1f3c02  init: taught myself html
 b7e9d41  first real client site: hawthorne corner store
 c2d8e10  cert iv in cyber security, tafe qld
-d4f1a77  desktop-buddy hits 1.0
-e9b3c55  bachelor of it @ qut  (2027, pending)
+d4f1a77  desktopbuddy hits 1.0
+e9b3c55  (HEAD -> main) renamed to blimo, lands on mac
 ```
 
 ## my setup
 
 ```
-os         →  windows 11
+os         →  windows 11 · arch linux on kde
 editor     →  visual studio code
 pairing    →  claude code
 go-to      →  next.js · typescript · tailwind · shadcn/ui
-data       →  neon postgres
+data       →  postgres
 ships to   →  vercel · cloudflare
 ```
 
@@ -86,14 +101,12 @@ ships to   →  vercel · cloudflare
 <summary><sub>the numbers, if you're into that</sub></summary>
 <br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaineeldev&show_icons=true&theme=transparent&hide_border=true&hide_title=true&cache_seconds=1800" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaineeldev&layout=compact&theme=transparent&hide_border=true&hide=ejs&cache_seconds=1800" height="150" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=jaineeldev&hide_border=true&background=00000000&stroke=8B949E40&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&currStreakLabel=58A6FF&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&date_format=j%20M%5B%20Y%5D" alt="Contribution streak" />
+</p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/58A6FF/jaineeldev" width="100%" alt="Contribution chart" />
 </p>
 </details>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaineeldev&theme=github-compact&hide_border=true&hide_title=true&bg_color=00000000&color=8B949E&line=58A6FF&point=58A6FF" alt="Contribution graph" />
-</p>
 
 ## say hi
 
